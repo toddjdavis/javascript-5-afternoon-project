@@ -52,7 +52,7 @@ function callFriend(name) {
 */
 
 let callJake = callFriend('Jake')
-callJake.dial('435-555-9248')
+callJake('435-555-9248')
 
 
 
